@@ -1,0 +1,1 @@
+Merge the main branch into the dev branch. Note that at the of this step, the dev branch should be similar to the main branch but contain the feature that you added using the feature-1 branch.
